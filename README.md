@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Frontend Development.<br>🌱 I'm currently learning Data Structures and Algorithms.
+🔭 I'm currently working on Full Stack Development.<br>🌱 I'm currently learning Data Structures and Algorithms.
 
 
 ## 🌐 Socials:
